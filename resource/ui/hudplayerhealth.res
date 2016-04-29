@@ -28,8 +28,8 @@
 		"xpos_minmode"	"60"
 		"ypos"			"35"
 		"zpos"			"4"
-		"wide"			"51"
-		"tall"			"51"
+		"wide"			"55"
+		"tall"			"55"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
@@ -38,9 +38,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"73"
+		"xpos"			"75"
 		"xpos_minmode"	"58"
-		"ypos"			"33"
+		"ypos"			"35"
 		"zpos"			"3"
 		"wide"			"55"
 		"tall"			"55"
@@ -75,13 +75,13 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"76"
+		"xpos"			"78"
 		"xpos_minmode"	"61"
-		"ypos"			"52"	[$WIN32]
+		"ypos"			"53"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"5"
 		"wide"			"50"
-		"tall"			"18"
+		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
